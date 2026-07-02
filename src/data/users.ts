@@ -17,6 +17,6 @@ export const products = {
 
 export const checkoutCustomer = {
   firstName: 'Dipika',
-  lastName: 'Tester',
+  lastName: 'Acharya',
   postalCode: '44600',
 } as const;
